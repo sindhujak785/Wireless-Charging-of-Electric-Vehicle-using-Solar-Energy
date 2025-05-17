@@ -28,7 +28,7 @@ This project demonstrates a prototype model for **charging electric vehicles wir
 
 ---
 
-## ⚙️ System Architecture
+##  System Architecture
 
 ###  Transmitter Side (on the road)
 - Solar Panel (10W)
@@ -45,7 +45,7 @@ This project demonstrates a prototype model for **charging electric vehicles wir
 
 ---
 
-## 📷 Demo & Documentation
+##  Documentation
 
 -  [Final Report on Google Drive](https://docs.google.com/document/d/15LaDlF-Ik-Veeb6Fc5dxYRlm-NravYVeSFne-TEL0T0/edit?usp=sharing) 
 -  [Presentation PPT](https://docs.google.com/presentation/d/1W_7g_BG3PN-jOj-Sfsb020gIdowi3V2s/edit?usp=sharing&ouid=114610014686363824211&rtpof=true&sd=true)
