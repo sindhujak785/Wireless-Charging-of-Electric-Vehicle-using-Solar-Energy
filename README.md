@@ -13,6 +13,9 @@ Institute of Engineering & Technology (IET)
 
 This project demonstrates a prototype model for **charging electric vehicles wirelessly while in motion**, using **inductive coils embedded in the road** and powered by **solar energy**. The goal is to provide a clean, efficient, and on-the-go EV charging solution.
 
+![image](https://github.com/user-attachments/assets/f336cc6d-6aa4-468a-a5e8-bb02bf0fb7e3)
+
+
 ---
 
 ##  Objectives
