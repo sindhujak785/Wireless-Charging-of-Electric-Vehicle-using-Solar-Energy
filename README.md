@@ -98,6 +98,8 @@ Charging was confirmed by LED blinking.
 
 This project proves the feasibility of wireless EV charging using solar power. The system reduces dependence on the grid, improves convenience, and supports eco-friendly mobility. With further development, this can revolutionize how EVs are charged in public and private spaces.
 
+> 🔗 **Note:** Full project report, testing data, and photos are available here: [Google Drive Link](https://drive.google.com/drive/folders/1ZdJb8JAtJgf7_uH7y1-brqZtK3aEBiTi?usp=sharing)
+
 ---
 
 
